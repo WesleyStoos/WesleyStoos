@@ -27,11 +27,11 @@
  
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -47,13 +47,24 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Worldpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
+![Bulma](https://img.shields.io/badge/-bulma-0D1117?style=for-the-badge&logo=bulma&labelColor=0D1117)&nbsp;
+![Chart.JS](https://img.shields.io/badge/-Chart.JS-0D1117?style=for-the-badge&logo=chartdotjs&labelColor=0D1117)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![Aurelia](https://img.shields.io/badge/-Aurelia-0D1117?style=for-the-badge&logo=aurelia&labelColor=0D1117)&nbsp;
+![Expreess](https://img.shields.io/badge/-Expreess-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![D3.JS](https://img.shields.io/badge/-D3.JS-0D1117?style=for-the-badge&logo=d3dotjs&labelColor=0D1117)&nbsp;
+![Ember.JS](https://img.shields.io/badge/-Ember.JS-0D1117?style=for-the-badge&logo=emberdotjs&labelColor=0D1117)&nbsp;
+![Preact](https://img.shields.io/badge/-Preact-0D1117?style=for-the-badge&logo=preact&labelColor=0D1117)&nbsp;
+![Backbone.JS](https://img.shields.io/badge/-Backbone.JS-0D1117?style=for-the-badge&logo=backbonedotjs&labelColor=0D1117)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-0D1117?style=for-the-badge&logo=babel&labelColor=0D1117)&nbsp;
+![Meteor](https://img.shields.io/badge/-Meteor-0D1117?style=for-the-badge&logo=meteor&labelColor=0D1117)&nbsp;
+![Underscore.JS](https://img.shields.io/badge/-Underscore.JS-0D1117?style=for-the-badge&logo=underscoredotjs&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=for-the-badge&logo=htmx&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=for-the-badge&logo=htmx&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

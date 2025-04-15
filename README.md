@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC1C06&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC1C06&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wesley+Santos.;I'm+a+Systems+Analysis+and+Development+student.;I'm+28+years+old.;I'm+from+Brasilia+Federal+District+DF.;Be+Welcome!+😊)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC1C06&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wesley+Santos.;I'm+a+Systems+Analysis+and+Development+student.;I'm+28+years+old.;I'm+from+Brasília+Federal+District+DF.;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WesleyStoos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="WesleyStoos github stats" /> 
@@ -45,27 +45,21 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Bulma](https://img.shields.io/badge/-bulma-0D1117?style=for-the-badge&logo=bulma&labelColor=0D1117)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![D3.JS](https://img.shields.io/badge/-D3.JS-0D1117?style=for-the-badge&logo=d3dotjs&labelColor=0D1117)&nbsp;
-![Ember.JS](https://img.shields.io/badge/-Ember.JS-0D1117?style=for-the-badge&logo=emberdotjs&labelColor=0D1117)&nbsp;
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Nest.JS](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 ![Ruby](https://img.shields.io/badge/-ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div align="center">
 
